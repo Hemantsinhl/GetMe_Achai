@@ -1,5 +1,5 @@
 import React from 'react'
-import PaymentPage from '@/components/Paymentpage'
+import PaymentPage from '@/components/PaymentPage'
 import { notFound } from "next/navigation"
 import connectDB from '@/db/connectDb'
 import User from '@/models/User'
