@@ -5,7 +5,6 @@ import NextAuth from 'next-auth'
 // import EmailProvider from 'next-auth/providers/email'
 import GithubProvider from 'next-auth/providers/github'
 import User from '@/models/User'
-import Payment from '@/models/Payment'
 import connectDb from '@/db/connectDb'
 
 
